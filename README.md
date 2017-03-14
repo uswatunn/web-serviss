@@ -1,1 +1,2 @@
-# web-serviss
+# webservice
+Proyek kuliah web service
